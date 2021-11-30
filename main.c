@@ -7,4 +7,4 @@ int main(void)
   c=a+b;
   printf("sum of a&b is %f",c);
   return 0;
-}
+  }
